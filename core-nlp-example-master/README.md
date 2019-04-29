@@ -1,1 +1,0 @@
-# Stanford Core NLP Example
