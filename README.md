@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/techprimers/core-nlp-example.svg)](https://github.com/techprimers/core-nlp-example/network)
 
 
-## Src Contains
+## Source Contains
 
 - <b> LemmaExample </b> 
 - <b> Named Entity Recognition </b>
@@ -18,7 +18,7 @@
 - <b> Sentence Analysis </b>
 - <b> Token Generation.</b>
 
-## SETTING UP
+## Setup
  1. Need of java-8 to be installed in required system.
  2. Direct Download zip or via svn.
  3. POM Dependencies.
